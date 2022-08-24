@@ -2,7 +2,7 @@
 
 ## About Us
 
-This project started by two bored teens, who wanted to make stuff together, to better the world with more code.
+This project started by two bored teens, who wanted to make stuff together.
 
 ### Meet Wesley ![Wesley Profile Picture](https://avatars.githubusercontent.com/u/71160266?s=20)
 
@@ -17,4 +17,4 @@ Waiting for bio to be writen...
 
 ## Projects
 
-[Unnamed-streaming-service](https://github.com/project-undefined/unnamed-streaming-service-changlog)
+[Unnamed-streaming-service (Real Name TBA)](https://github.com/project-undefined/unnamed-streaming-service-changlog)
